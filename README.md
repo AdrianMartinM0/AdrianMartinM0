@@ -21,10 +21,9 @@ Welcome to my GitHub space! 🌟 Here you'll find a little bit of everything: fr
   ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AdrianMartinM0&show_icons=true&theme=radical) -->
 
 ## 🌐 Encuéntrame en
-<ul>
-  <li><a href="https://www.linkedin.com/in/adrián-martín-muñoz/" target="_blank">LinkedIn</a></li>
-  <li><a href="#" target="_blank">Portfolio</a></li>
-</ul>
+- [LinkedIn](https://www.linkedin.com/in/adrián-martín-muñoz/)
+- [Portfolio](#)
+
 
 ---
 Thank you for visiting my profile! 🤩 I'm open to collaborating on interesting projects or simply connecting. Don't hesitate to say hello! 😊
