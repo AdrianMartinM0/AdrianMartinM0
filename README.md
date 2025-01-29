@@ -17,7 +17,7 @@ Welcome to my GitHub space! 🚀🚀🚀
 <td valign="top" width="40%">
 
 ## 🌟 **About Me**
-- 🎓 Student of Web Application Development (DAW), passionate about creating innovative solutions.
+- 🎓 Web Application Development Student(DAW), passionate about creating innovative solutions.
 - 💡 I’m excited to build innovative digital experiences and explore new trends in the tech world.
 - 🛠️ I enjoy turning ideas into intuitive interfaces and developing the logic that makes them work perfectly. ✨
 - 🌱 **Current stack**: HTML, CSS, Tailwind, JavaScript, React, Node.js, Express, MongoDB, and more.
